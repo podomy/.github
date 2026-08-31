@@ -11,19 +11,10 @@
 
   podomy builds distributed systems for robotic fleets that automate physical work. Highest reliability from warehouse aisles to mines, factories, and space.
 
-  > fleet any group of autonomous machines acting together
-
   [Homepage](https://podomy.com/) • [Concord](https://github.com/podomy/concord) • [Docs](https://podomy.com/docs/) • [Pricing](https://podomy.com/pricing/)
 
   ### [_Get involved!_](https://podomy.com/contact/)
 </div>
-
-## Projects
-
-- [Concord](https://github.com/podomy/concord) -- AP distributed system, a runtime and coordination layer designed for robotic fleets. It gives you highest reliability from warehouse aisles to mines, factories, and space.
-- [Resonance](https://github.com/podomy/resonance) -- physical 2D simulator for autonomous nodes and network mesh. Primary validation for partition, reunion, and scheduling in Concord.
-- [Principles](https://github.com/podomy/principles) -- foundational principles guiding all Podomy development.
-- [podomy.com](https://github.com/podomy/podomy.com) -- public site and documentation at https://podomy.com
 
 ## Community
 

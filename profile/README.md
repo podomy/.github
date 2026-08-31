@@ -1,10 +1,22 @@
-# podomy
+<div align="center">
+  <br>
+  <br>
+  <a href="https://podomy.com" target="_blank" rel="noopener noreferrer">
+    <img alt="podomy logo" src="https://podomy.com/logo.png" height="60">
+  </a>
+  <br>
+  <br>
 
-A resilient system.
+  # podomy
 
-podomy builds distributed systems for robotic fleets that automate physical work. Highest reliability from warehouse aisles to mines, factories, and space.
+  podomy builds distributed systems for robotic fleets that automate physical work. Highest reliability from warehouse aisles to mines, factories, and space.
 
-> fleet any group of autonomous machines acting together
+  > fleet any group of autonomous machines acting together
+
+  [Homepage](https://podomy.com/) • [Concord](https://github.com/podomy/concord) • [Docs](https://podomy.com/docs/) • [Pricing](https://podomy.com/pricing/)
+
+  ### [_Get involved!_](https://podomy.com/contact/)
+</div>
 
 ## Projects
 

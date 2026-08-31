@@ -18,7 +18,9 @@
 
 ## Community
 
-Discuss changes before opening a PR: [dev@podomy.com](mailto:dev@podomy.com) -- archive at https://archive.podomy.com -- you must subscribe to receive responses.
+Discuss changes before opening a PR: [dev@podomy.com](mailto:dev@podomy.com)
+Archive at https://archive.podomy.com
+You must subscribe to receive responses.
 
 - Site: https://podomy.com
 - X: https://x.com/polypodomy

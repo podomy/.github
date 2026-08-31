@@ -19,11 +19,9 @@
 ## Community
 
 Discuss changes before opening a PR: [dev@podomy.com](mailto:dev@podomy.com)
-Archive at https://archive.podomy.com
-You must subscribe to receive responses.
 
-- Site: https://podomy.com
-- X: https://x.com/polypodomy
-- GitHub: https://github.com/podomy
+Archive at https://archive.podomy.com
+
+You must subscribe to receive responses.
 
 All projects are AGPL-3.0 or later unless noted.

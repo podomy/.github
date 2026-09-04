@@ -6,10 +6,8 @@
 
 ### Community
 
-Discuss changes before opening a PR: [dev@podomy.com](mailto:dev@podomy.com)
+Discuss your change with the engineering team at [contact@podomy.com](mailto:contact@podomy.com) before opening a PR in order not to waste anybody's effort or time.
 
-Archive at https://archive.podomy.com
-
-You must subscribe to receive responses.
+Announcements and engineering updates on distributed systems, consensus algorithms, and robotic fleet coordination are shared via our newsletter at [podomy.com](https://podomy.com).
 
 All projects are AGPL-3.0 or later unless noted.

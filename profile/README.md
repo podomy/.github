@@ -6,6 +6,4 @@
 
 ### Community
 
-Discuss your change with the engineering team at [contact@podomy.com](mailto:contact@podomy.com) before opening a PR in order not to waste anybody's effort or time.
-
-All projects are AGPL-3.0 or later unless noted.
+Discuss your changes with the engineering team at [contact@podomy.com](mailto:contact@podomy.com) before submitting changes to avoid wasting anyone's effort or time.
